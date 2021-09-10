@@ -6,11 +6,6 @@
     "web": "expo start --web",
     "start": "react-native start"
   },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
-  },
   "dependencies": {
     "@expo-google-fonts/inter": "^0.2.0",
     "@expo-google-fonts/roboto": "^0.2.0",
